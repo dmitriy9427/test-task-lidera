@@ -2,7 +2,7 @@
 
 ## Ссылки:
 
-[Ссылка для просмотра демо-версии](dmitriy9427.github.io/test-task-lidera/)
+[Ссылка для просмотра демо-версии](https://dmitriy9427.github.io/test-task-lidera/)
 
 [Ссылка на дизайн](<https://www.figma.com/file/OeqAaIJlq9PYystjl8IiCy/Kinn-Home-(Copy)?type=design&node-id=1-2&mode=design&t=U1HSvI80qew3iXJQ-0>)
 
