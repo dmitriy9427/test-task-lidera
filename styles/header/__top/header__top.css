@@ -1,0 +1,7 @@
+.header__top {
+  background-color: var(--yellow-background-color);
+  height: 16px;
+  margin: 0 auto 32px;
+  max-width: 1424px;
+  width: 100%;
+}

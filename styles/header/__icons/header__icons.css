@@ -1,0 +1,13 @@
+.header__icons {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+
+  @media (max-width: 1250px) {
+    column-gap: 15px;
+  }
+
+  @media (max-width: 768px) {
+    column-gap: 10px;
+  }
+}
