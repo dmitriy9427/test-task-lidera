@@ -1,6 +1,0 @@
-.header__burger-icon {
-  @media (max-width: 768px) {
-    width: 23px;
-    height: 23px;
-  }
-}
