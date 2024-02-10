@@ -1035,6 +1035,10 @@ body {
   }
 }
 
+.footer__list-item:hover {
+  cursor: pointer;
+}
+
 .footer__list-item svg {
   margin-left: 11px;
 }
@@ -1063,4 +1067,8 @@ body {
     width: 9px;
     height: 14px;
   }
+}
+
+.footer__icons-icon img:hover {
+  cursor: pointer;
 }
