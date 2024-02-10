@@ -1,4 +1,5 @@
 @import url(./styles/global/global.css);
+/* header */
 @import url(./styles/header/header.css);
 @import url(./styles/header/__top/header__top.css);
 @import url(./styles/header/__content/header__content.css);
@@ -11,3 +12,12 @@
 @import url(./styles/header/__logo/header__logo.css);
 @import url(./styles/header/__logo-img/header__logo-img.css);
 @import url(./styles/header/__cart/header__cart.css);
+/* main */
+@import url(./styles/main/main.css);
+/* section everyday */
+@import url(./styles/everyday/everyday.css);
+@import url(./styles/everyday/__image/everyday__image.css);
+@import url(./styles/everyday/__content/everyday__content.css);
+@import url(./styles/everyday/__content-text/everyday__content-text.css);
+@import url(./styles/everyday/__content-title/everyday__content-title.css);
+/*  */
