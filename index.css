@@ -207,11 +207,13 @@ body {
   @media (max-width: 568px) {
     width: 14px;
     height: 14px;
+    bottom: 2px;
   }
 
   @media (max-width: 468px) {
     width: 12px;
     height: 12px;
+    bottom: 4px;
   }
 }
 
