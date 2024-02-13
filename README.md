@@ -35,20 +35,4 @@ git clone https://github.com/dmitriy9427/test-task-lidera.git
 https://code.visualstudio.com/
 ```
 
-Установите Node.js
-
-```
-https://nodejs.org/ru
-```
-
-Запустите в редакторе кода склонированную папку, откройте терминал и запустите команду для установки всех необходимых зависимостей для проекта:
-
-```
-npm install
-```
-
-Когда все установлено, можно запускать проект локально с помощью команды:
-
-```
-npm start или npm run start
-```
+Запустите проект с помощью Open with Live Server.
